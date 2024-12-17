@@ -1,16 +1,18 @@
-## Hi there 👋
+# Bienvenue sur mon GitHub 👋
 
-<!--
-**mobadata/mobadata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis un Data Scientist passionné par la résolution de problèmes grâce à l’intelligence artificielle et les modèles de machine learning. 🌟
 
-Here are some ideas to get you started:
+## Compétences
+- 🧠 **Machine Learning** : Classification, Régression, Modèles supervisés et non-supervisés.
+- 🤖 **NLP (Natural Language Processing)** : Prétraitement du texte, Analyse de sentiment, Large Language Models (LLMs).
+- 🧑‍💻 **Deep Learning** : Réseaux de neurones profonds, Transfer Learning, Fine-Tuning, Modèles convolutifs (CNN), Modèles récurrents (RNN).
+- 📊 **Visualisation de données** : Power BI, Matplotlib, Seaborn, Plotly, ggplot.
+- 🔍 **Analyse des données** : Manipulation des datasets avec Pandas et NumPy.
+- 🖥️ **Langages** : Python, SQL, R.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## En cours...
+- 🔨 Création de mon portfolio avec des projets en ML, Deep Learning, NLP et LLMs.
+
+## Me Contacter
+- 💌 [LinkedIn](https://www.linkedin.com/in/moussa-ba-615a901a9)
+- 📧 [Email](moussa.ba.math@gmail.com)
