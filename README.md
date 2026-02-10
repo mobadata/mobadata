@@ -20,6 +20,7 @@ Ingénieur Data Science diplômé de **Polytech Clermont-Ferrand**, je suis spé
 ### 💼 Expérience Professionnelle
 
 - 🔹 **ML Engineer** @ Hallia (Août 2025 - En cours) - Agents IA, RAG, Chatbots, DevOps
+- 🔹 **Cofondateur** @ Startup Tech, Sénégal - Digitalisation de processus, Agents IA spécialisés, Transformation digitale
 - 🔹 **Data Scientist** @ Groupama (Fév 2024 - Août 2024) - Scoring prédictif, Analyse de survie
 - 🔹 **Data Scientist** @ Orange (Avr 2023 - Août 2023) - Deep Learning, Prévision de trafic
 
@@ -70,15 +71,17 @@ Ingénieur Data Science diplômé de **Polytech Clermont-Ferrand**, je suis spé
 - 🔨 Développement d'agents IA conversationnels avec architecture RAG
 - 🤖 Chatbots intelligents pour support client et SAV
 - 📊 Système RH automatisé avec analyse de CV et matching candidats
-- 🚀 Amélioration continue de mes projets MLOps
+- 🚀 Digitalisation de processus métier et agents IA spécialisés par domaine
+- ⚙️ Amélioration continue de mes projets MLOps
 
 ---
 
 ## 🏆 Réalisations
 
+- 🚀 **Cofondation d'une startup tech** au Sénégal - Digitalisation de fiches d'interventions, Agent IA spécialisé en climatisation/froid
 - 🎯 **+15% d'amélioration** du scoring de satisfaction client (Groupama)
 - 📉 **-20% d'erreurs** de prévision de trafic réseau (Orange)
-- 🚀 **Système production-ready** de détection de fraude avec MLOps complet
+- 🔐 **Système production-ready** de détection de fraude avec MLOps complet
 
 ---
 
