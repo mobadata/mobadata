@@ -55,46 +55,13 @@ Ingénieur Data Science diplômé de **Polytech Clermont-Ferrand**, je suis spé
 ### 📊 Data Engineering & Visualisation
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 
 ### ☁️ Cloud & Déploiement
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-
----
-
-## 📂 Projets Principaux
-
-### 🔐 [Système de Détection de Fraude ML - Production Ready](https://github.com/mobadata/fraud-detection-ml-system)
-
-Un système complet de détection de fraude bancaire avec pipeline ML end-to-end, API FastAPI, dashboard Streamlit et déploiement Docker.
-
-**Technologies** : Python, Scikit-Learn, FastAPI, Streamlit, Docker, MLOps
-
-**Features** :
-- ✅ Pipeline ML complet (SMOTE, optimisation de seuil, validation croisée)
-- ✅ API REST avec prédictions en temps réel
-- ✅ Dashboard interactif avec visualisations
-- ✅ Explicabilité (analyse des features importantes)
-- ✅ Déploiement containerisé avec Docker
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/mobadata/fraud-detection-ml-system)
-[![Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat&logo=jupyter)](https://nbviewer.org/github/mobadata/fraud-detection-ml-system/blob/main/notebooks/02_modeling.ipynb?flush_cache=true)
-
----
-
-## 📊 Statistiques GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mobadata&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=3498db&icon_color=3498db)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mobadata&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=3498db)
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=mobadata&theme=radical&hide_border=true&background=0D1117&ring=3498db&fire=3498db&currStreakLabel=3498db)
-
-</div>
 
 ---
 
@@ -107,22 +74,11 @@ Un système complet de détection de fraude bancaire avec pipeline ML end-to-end
 
 ---
 
-## 📈 Mes Contributions
-
-<div align="center">
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mobadata&theme=radical&hide_border=true&bg_color=0D1117&color=3498db&line=3498db&point=3498db)
-
-</div>
-
----
-
 ## 🏆 Réalisations
 
 - 🎯 **+15% d'amélioration** du scoring de satisfaction client (Groupama)
 - 📉 **-20% d'erreurs** de prévision de trafic réseau (Orange)
 - 🚀 **Système production-ready** de détection de fraude avec MLOps complet
-- 💼 **3+ années** d'expérience en Data Science & ML
 
 ---
 
@@ -150,8 +106,6 @@ Un système complet de détection de fraude bancaire avec pipeline ML end-to-end
 ### 💡 "Transformer les données en décisions intelligentes"
 
 ⭐️ N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration !
-
-**Visiteurs depuis le début** : ![Visitor Count](https://profile-counter.glitch.me/mobadata/count.svg)
 
 </div>
 
