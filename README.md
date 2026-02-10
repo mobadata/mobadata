@@ -2,7 +2,7 @@
 
 # 👋 Bonjour, je suis Moussa Ba
 
-### Data Scientist | ML Engineer | Passionné d'IA Générative
+### Data Scientist | Machine Learning & NLP | AI Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moussa-ba-615a901a9/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mobadata)
@@ -15,7 +15,7 @@
 
 ## 🚀 À propos de moi
 
-Ingénieur Data Science diplômé de **Polytech Clermont-Ferrand**, je suis spécialisé en **Machine Learning**, **Deep Learning** et **MLOps**. Actuellement en **CDD chez Hallia** en tant que ML Engineer, je développe des systèmes d'IA générative (RAG, agents conversationnels) et des solutions d'automatisation intelligente.
+Ingénieur Data Science diplômé de **Polytech Clermont-Ferrand**, je suis spécialisé en **Machine Learning**, **NLP**, **Deep Learning** et **MLOps**. Actuellement en **CDD chez Hallia** en tant que Data Scientist & AI Engineer, je développe des systèmes d'IA générative (RAG, agents conversationnels) et des solutions d'automatisation intelligente.
 
 ### 💼 Expérience Professionnelle
 
