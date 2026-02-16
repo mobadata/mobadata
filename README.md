@@ -19,7 +19,7 @@ Ingénieur Data Science diplômé de **Polytech Clermont-Ferrand**, je suis spé
 
 ### 💼 Expérience Professionnelle
 
-- 🔹 **ML Engineer** @ Hallia (Août 2025 - En cours) - Agents IA, RAG, Chatbots, DevOps
+- 🔹 **AI Engineer** @ Hallia (Août 2025 - En cours) - Agents IA, RAG, Chatbots, DevOps
 - 🔹 **Cofondateur** @ Yeesal AI, Sénégal - Digitalisation de processus, Agents IA spécialisés, Transformation digitale
 - 🔹 **Data Scientist** @ Groupama (Fév 2024 - Août 2024) - Scoring prédictif, Analyse de survie
 - 🔹 **Data Scientist** @ Orange (Avr 2023 - Août 2023) - Deep Learning, Prévision de trafic
