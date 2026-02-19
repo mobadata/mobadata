@@ -15,7 +15,7 @@
 
 ## 🚀 À propos de moi
 
-Ingénieur Data Science diplômé de **Polytech Clermont-Ferrand**, je suis spécialisé en **Machine Learning**, **NLP**, **Deep Learning** et **MLOps**. Actuellement en **CDD chez Hallia** en tant que Data Scientist & AI Engineer, je développe des systèmes d'IA générative (RAG, agents conversationnels) et des solutions d'automatisation intelligente.
+Ingénieur Data Science passionné par l'IA et le Machine Learning. Spécialisé en ML/DL, IA générative et MLOps avec une expertise en développement de solutions end-to-end.. Actuellement en **Consultance chez Hallia** en tant que AI Engineer - ML Engineer, je développe des systèmes d'IA générative (RAG, agents conversationnels) et des solutions d'automatisation intelligente.
 
 ### 💼 Expérience Professionnelle
 
@@ -26,8 +26,8 @@ Ingénieur Data Science diplômé de **Polytech Clermont-Ferrand**, je suis spé
 
 ### 🎓 Formation
 
-- 🎯 **Machine Learning Engineer** - DataScientest (2024-2025)
 - 🎯 **Diplôme d'Ingénieur** - Polytech Clermont-Ferrand (2021-2024)
+- **Licence Mathématique** - Aix Marseille Université (2020-2021)
 
 ---
 
