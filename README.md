@@ -73,13 +73,13 @@ Ingénieur Data Science passionné par l'IA et le Machine Learning. Spécialisé
 - 🤖 Chatbots intelligents pour support client et SAV
 - 📊 Système RH automatisé avec analyse de CV et matching candidats
 - 🚀 Digitalisation de processus métier et agents IA spécialisés par domaine
-- ⚙️ Amélioration continue de mes projets MLOps
+- ⚙️ Amélioration continue de mes projets Machine learning et MLOps et oui parce que l'IA moderne ne remplace pas ma passion pour la Data classique et la rigueur du MLOps.
 
 ---
 
 ## 🏆 Réalisations
 
-- 🚀 **Cofondation d'une startup tech** au Sénégal - Digitalisation de fiches d'interventions, Agent IA spécialisé en climatisation/froid
+- 🚀 **Cofondation d'une startup tech Yessal AI** au Sénégal - Digitalisation de fiches d'interventions, Agent IA spécialisé en climatisation/froid
 - 🎯 **+15% d'amélioration** du scoring de satisfaction client (Groupama)
 - 📉 **-20% d'erreurs** de prévision de trafic réseau (Orange)
 - 🔐 **Système production-ready** de détection de fraude avec MLOps complet
