@@ -21,8 +21,9 @@ Ingénieur Data Science passionné par l'IA et le Machine Learning. Spécialisé
 
 - 🔹 **AI Engineer** @ Hallia (Août 2025 - En cours) - Agents IA, RAG, Chatbots, DevOps
 - 🔹 **Cofondateur** @ Yeesal AI, Sénégal - Digitalisation de processus, Agents IA spécialisés, Transformation digitale
+- 🔹 **Consultant Ingénieur IA** @ Orange - SENEGAL (Sept 2024 - Juin 2025) - NLP , IA GEN pour traitement des appels clients
 - 🔹 **Data Scientist** @ Groupama (Fév 2024 - Août 2024) - Scoring prédictif, Analyse de survie
-- 🔹 **Data Scientist** @ Orange (Avr 2023 - Août 2023) - Deep Learning, Prévision de trafic
+- 🔹 **Data Scientist** @ Orange - SENEGAL (Avr 2023 - Août 2023) - Deep Learning, Prévision de trafic
 
 ### 🎓 Formation
 
